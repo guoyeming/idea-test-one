@@ -11,6 +11,7 @@ public class HelloGit {
         System.out.println("分支添加1");
         System.out.println("分支添加2");
         System.out.println("在线编辑，测试本地库更新");
+        System.out.println("推送本地库测试1");
     }
 
 }
